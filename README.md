@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning computer science and its applications in solving biological problems.
 ### 🤔 
-![bio](movie.gif)
+![bio](bio.gif)
 
 
 <!--
