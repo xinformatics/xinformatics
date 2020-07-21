@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning computer science and its applications in solving biological problems.
-### 🤔 
+
+
+### :point_down: For fun I tried implementing the Julia Set Fractal generating algorithm and made this video. I hope you'll enjoy it. :point_down:
 ![bio](bio.gif)
 
 
