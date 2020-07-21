@@ -3,7 +3,7 @@
 
 
 ### :point_down: For fun I tried implementing the Julia Set Fractal generating algorithm and made this video. I hope you'll enjoy it. :point_down:
-![bio](bio.gif)
+![bio](https://github.com/xinformatics/xinformatics/blob/master/bio.gif)
 
 
 <!--
