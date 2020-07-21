@@ -1,4 +1,8 @@
 ### Hi there 👋
+### 🌱 I’m currently learning computer science and its applications in solving biological problems.
+### 🤔 
+![bio](movie.gif)
+
 
 <!--
 **xinformatics/xinformatics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
