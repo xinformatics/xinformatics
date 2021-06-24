@@ -1,9 +1,8 @@
-### Hi there 👋
-### 🌱 I’m currently learning :computer: computer science :computer: and its applications in solving :honeybee: biological problems :whale:
-### 🔭 I am interested in developing biologically interpretable  :train2: machine learning :train: models for problems in :biohazard: cancer biology:biohazard:
-### 🌱 I have some experience in bioinformatics problem solving on the :wheel_of_dharma: [Rosalind Platform](http://rosalind.info/statistics/countries/in/) :wheel_of_dharma:
+### Hi there! Welcome to my Github.
+### 🌱 I’m currently learning computer science and its applications in solving biological problems :computer: 
+### 🔭 I am interested in developing biologically interpretable machine learning models for problems in cancer biology.
 
-### 🌱 Recent: I am applying to fall 2021 doctoral programs in biomedical science / engineering (computational biology / bioinformatics / genomics)  
+<!-- ### 🌱 Recent: I am applying to fall 2021 doctoral programs in biomedical science / engineering (computational biology / bioinformatics / genomics)  -->
 
 
 ### :point_down: For fun I tried implementing the Julia Set Fractal generating algorithm and made this video. I hope you'll enjoy it. :point_down:
