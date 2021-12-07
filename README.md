@@ -1,8 +1,8 @@
 ### Hi there! Welcome to my Github.
-### 🌱 I’m currently learning computer science and its applications in solving biological problems :computer: 
-### 🔭 I am interested in developing biologically interpretable machine learning models for problems in cancer biology.
+### 🌱 I am interested in representation learning and its applications in solving biological problems :computer: 
 
-<!-- ### 🌱 Recent: I am applying to fall 2021 doctoral programs in biomedical science / engineering (computational biology / bioinformatics / genomics)  -->
+
+
 
 
 ### :point_down: For fun I tried implementing the Julia Set Fractal generating algorithm and made this video. I hope you'll enjoy it. :point_down:
