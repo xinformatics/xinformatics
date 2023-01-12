@@ -8,14 +8,14 @@
 ### :point_down: For fun I tried implementing the Julia Set Fractal generating algorithm and made this video. I hope you'll enjoy it. :point_down:
 ![bio](https://github.com/xinformatics/xinformatics/blob/master/bio.gif)
 
-
+<!-- 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xinformatics&show_icons=true&theme=radical" />
 </a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinformatics&layout=compact" />
 </a>
- 
+  -->
 <!--
 ![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinformatics&show_icons=true&theme=radical)
 
