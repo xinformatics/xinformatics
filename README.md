@@ -1,11 +1,11 @@
-### Hi there! Welcome to my Github.
+### Hi there! Welcome to my GitHub.
 ### 🌱 I am interested in representation learning and its applications in solving biological problems :computer: 
 
 
 
 
 
-### :point_down: For fun I tried implementing the Julia Set Fractal generating algorithm and made this video. I hope you'll enjoy it. :point_down:
+### :point_down: For fun, I tried implementing the Julia Set Fractal generating algorithm and made this video. I hope you'll enjoy it. :point_down:
 ![bio](https://github.com/xinformatics/xinformatics/blob/master/bio.gif)
 
 <!-- 
